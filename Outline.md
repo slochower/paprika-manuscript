@@ -7,6 +7,7 @@
         - ?
     - Brief background on what has been done with US for binding free energy (here or in discussion?)
         - B Roux: https://www.pnas.org/content/102/19/6825
+        - M Zacharias: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.8b01022 
         - NonEq: 
             - https://www.pnas.org/content/98/7/3658.short
             - https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.23398
