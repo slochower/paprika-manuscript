@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/slochower/paprika-manuscript/tree/gh-pages) branch hosts the contents of this directory at https://slochower.github.io/paprika-manuscript/.
-The permalink for this webpage version is https://slochower.github.io/paprika-manuscript/v/043b55c43012e6b40745c62f86c88d23b63fe82f/.
+The permalink for this webpage version is https://slochower.github.io/paprika-manuscript/v/041baf69be9f222183a1ce36c694aaaa522bf092/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://slochower.github.io/paprika-manuscript/v/freeze/.
 
 ## Files
@@ -36,4 +36,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`043b55c43012e6b40745c62f86c88d23b63fe82f`](https://github.com/slochower/paprika-manuscript/commit/043b55c43012e6b40745c62f86c88d23b63fe82f).
+[`041baf69be9f222183a1ce36c694aaaa522bf092`](https://github.com/slochower/paprika-manuscript/commit/041baf69be9f222183a1ce36c694aaaa522bf092).
