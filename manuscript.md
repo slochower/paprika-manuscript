@@ -18,9 +18,9 @@ title: 'Manubot Rootstock: Manuscript Title'
 
 <small><em>
 This manuscript
-([permalink](https://slochower.github.io/paprika-manuscript/v/043b55c43012e6b40745c62f86c88d23b63fe82f/))
+([permalink](https://slochower.github.io/paprika-manuscript/v/041baf69be9f222183a1ce36c694aaaa522bf092/))
 was automatically generated
-from [slochower/paprika-manuscript@043b55c](https://github.com/slochower/paprika-manuscript/tree/043b55c43012e6b40745c62f86c88d23b63fe82f)
+from [slochower/paprika-manuscript@041baf6](https://github.com/slochower/paprika-manuscript/tree/041baf69be9f222183a1ce36c694aaaa522bf092)
 on February 28, 2019.
 </em></small>
 
